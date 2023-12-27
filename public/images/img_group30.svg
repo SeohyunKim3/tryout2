@@ -1,0 +1,20 @@
+<svg width="216" height="24" viewBox="0 0 216 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="0.275885" y1="2.63028" x2="0.275884" y2="21.3905" stroke="black" stroke-width="0.551124"/>
+<rect x="4.12886" y="7.59624" width="15.0081" height="3.08991" fill="black"/>
+<rect x="4.12886" y="13.3346" width="8.38691" height="3.08991" fill="black"/>
+<rect x="43.9729" y="7.59624" width="15.0081" height="3.08991" fill="black"/>
+<rect x="47.5039" y="13.3346" width="8.38691" height="3.08991" fill="black"/>
+<line x1="51.7532" y1="2.63028" x2="51.7532" y2="21.3905" stroke="black" stroke-width="0.551124"/>
+<rect x="164.524" y="19.1358" width="15.0081" height="3.08991" transform="rotate(-90 164.524 19.1358)" fill="black"/>
+<rect x="170.263" y="15.6045" width="8.38691" height="3.08991" transform="rotate(-90 170.263 15.6045)" fill="black"/>
+<line x1="159.557" y1="11.3559" x2="178.318" y2="11.3559" stroke="black" stroke-width="0.551124"/>
+<line y1="-0.275562" x2="18.7382" y2="-0.275562" transform="matrix(4.37627e-08 1.00117 1.00117 -4.37627e-08 102.952 2.63028)" stroke="black" stroke-width="0.551124"/>
+<rect width="14.9906" height="3.08629" transform="matrix(-1.00117 0 0 1.00117 98.8247 7.59624)" fill="black"/>
+<rect width="8.37708" height="3.08629" transform="matrix(-1.00117 0 0 1.00117 98.8247 13.3346)" fill="black"/>
+<line x1="197.24" y1="22.8985" x2="216" y2="22.8985" stroke="black" stroke-width="0.551124"/>
+<rect x="202.207" y="19.0467" width="15.0081" height="3.08991" transform="rotate(-90 202.207 19.0467)" fill="black"/>
+<rect x="207.944" y="19.0467" width="8.38691" height="3.08991" transform="rotate(-90 207.944 19.0467)" fill="black"/>
+<line y1="-0.275562" x2="18.7382" y2="-0.275562" transform="matrix(1.00117 -4.37627e-08 -4.37627e-08 -1.00117 121.875 0.467833)" stroke="black" stroke-width="0.551124"/>
+<rect width="14.9906" height="3.08629" transform="matrix(0 1.00117 1.00117 0 126.84 4.59547)" fill="black"/>
+<rect width="8.37708" height="3.08629" transform="matrix(0 1.00117 1.00117 0 132.578 4.59547)" fill="black"/>
+</svg>
